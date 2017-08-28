@@ -5,6 +5,10 @@ def important_question():
     while resp != 'coconut':
         if resp == 'fuck you':
             print('WELL FUCK YOU!')
+        elif resp == 'chocolate':
+            print('You are trying to be original, I guess?')
+        elif resp == 'strawberry':
+            print('Well I guess that is a fruit. But your taste still sucks.')
         elif resp == 'tiramisu':
             print('Really? You like coffee in your ice cream? Weird.')
         elif resp == 'vanilla':
