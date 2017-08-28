@@ -1,7 +1,7 @@
 
 from setuptools import setup
 
-setup(name='fun',
+setup(name='asppfun',
     version='0.1',
     description='The best function you will ever use!',
     url='http://github.com/jennirinker/fun',
